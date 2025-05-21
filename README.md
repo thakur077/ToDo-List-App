@@ -3,10 +3,9 @@
 
 ## How to Run the Application
 
-1. Clone this repo
-    ```bash
-    git clone https://github.com/thakur077/To-Do-List-App.git
-    cd react-ToDo-List
+1. Clone this repo -
+    git clone https://github.com/thakur077/ToDo-List-App.git
+    cd ToDO App
 
 2. Run `npm install`
 3. Run `npm run dev`
